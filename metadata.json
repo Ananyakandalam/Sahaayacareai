@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Sahaaya Care AudioCare - Spoken Medicine Timetable",
+  "description": "Accessible 7-day visual medicine schedule with spoken audio guides, high-contrast visual pill identifiers, and time-of-day cues designed for patients who cannot read.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
